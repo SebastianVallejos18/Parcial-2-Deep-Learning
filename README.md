@@ -11,3 +11,4 @@ El objetivo fue desarrollar, entrenar y evaluar una red convolucional para la cl
 - Renato Villarroel H.
 - Fabián Andrés.
 - Sebastian Vallejos.
+- Gian Medina.
